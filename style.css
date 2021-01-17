@@ -1,0 +1,33 @@
+.container{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	box-shadow: currentColor;
+}
+.intro{
+	background-color: #3c3d3ef5;
+	border-radius: 0.75rem;
+}
+.self-info{
+	    font-family: sans-serif;
+	    padding-top: 10px;
+	    color: white;
+}
+.hr{
+	    width: 450px;
+    height: 3px;
+    background-color: white;
+    margin: auto;
+}
+.name{
+	font-size: 40px;
+	text-align: center;
+}
+.col-md-6{
+	padding: 10px;
+}
+.about-me{
+	font-size: 1.5rem;
+	margin: auto;
+	width: 700px;
+	padding: 20px;
+}
