@@ -1,11 +1,13 @@
-.container{
-	padding-top: 40px;
-	padding-bottom: 40px;
-	box-shadow: currentColor;
+body{
+	background-color: purple;
 }
-.intro{
-	background-color: #3c3d3ef5;
-	border-radius: 0.75rem;
+.container{
+	box-shadow: currentColor;
+	background-color: white;
+	padding-left: 0;
+	padding-right: 0;
+	    margin-bottom: 40px;
+    margin-top: 40px;
 }
 .self-info{
 	    font-family: sans-serif;
