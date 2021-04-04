@@ -1,5 +1,5 @@
 body{
-	background-color: purple;
+	background-color: darkgrey;
 }
 .container{
 	box-shadow: currentColor;
@@ -9,14 +9,12 @@ body{
 	    margin-bottom: 40px;
     margin-top: 40px;
 }
-.intro{
-	background-color: #3c3d3ef5;
 
-}
 .self-info{
 	    font-family: sans-serif;
-	    padding-top: 10px;
+	    padding-top: 20px;
 	    color: white;
+	    background-color: #3c3d3ef5;
 }
 .hr{
 	    width: 450px;
@@ -36,4 +34,7 @@ body{
 	margin: auto;
 	width: 700px;
 	padding: 20px;
+}
+a{
+	color: white; !important
 }
