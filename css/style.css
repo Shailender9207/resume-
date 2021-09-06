@@ -1,13 +1,12 @@
 body{
-	background-color: darkgrey;
+	
 }
 .container{
-	box-shadow: currentColor;
-	background-color: white;
 	padding-left: 0;
 	padding-right: 0;
 	    margin-bottom: 40px;
     margin-top: 40px;
+        
 }
 
 .self-info{
@@ -34,6 +33,7 @@ body{
 	margin: auto;
 	width: 700px;
 	padding: 20px;
+
 }
 a{
 	color: white; !important
